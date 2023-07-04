@@ -1,5 +1,6 @@
 header .buscar {
-  padding: 5px; }
+  padding: 5px; 
+  padding-left: 15px;}
 
 header .buscar input {
   width: 240px;
@@ -144,7 +145,8 @@ body {
   width: 100%; }
 
 .mapa {
-  padding-top: 15px; }
+  padding-top: 15px;
+  }
 
 @media screen and (max-width: 768px) {
   .contenedor {
