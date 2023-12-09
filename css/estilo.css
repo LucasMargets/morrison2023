@@ -139,6 +139,17 @@ body {
 .imgs:hover {
   transform: scale(1.1, 1.1);
   transition: all 1s ease; }
+.bot:hover{
+  transform: scale(1.1, 1.1);
+  transition: all 1s ease;
+}
+.pagination{
+  padding-right: 30px;
+}
+.card-img-top:hover{
+    transform: scale(1.1, 1.1);
+    transition: all 1s ease; 
+  border-radius: 20px;}
 
 .carro {
   height: 350px;
